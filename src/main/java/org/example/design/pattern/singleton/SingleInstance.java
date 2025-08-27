@@ -1,4 +1,4 @@
-package org.example;
+package org.example.design.pattern.singleton;
 
 public class SingleInstance {
 

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.design.pattern.immutable;
 
 import java.util.ArrayList;
 import java.util.Collections;
