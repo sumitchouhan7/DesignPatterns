@@ -4,7 +4,7 @@ public abstract class CoffeeDecorator implements Coffee{
 
     protected Coffee coffee;
 
-    public CoffeeDecorator(Coffee coffee) {
+    protected CoffeeDecorator(Coffee coffee) {
         this.coffee = coffee;
     }
 
